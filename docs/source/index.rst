@@ -10,7 +10,7 @@ Welcome to YICHUANSYQ TOD's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   windows-shortcuts.md
+   Java.md
 
 Indices and tables
 ==================
